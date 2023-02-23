@@ -1,4 +1,6 @@
-Hi there, My name is Ayo 👋
+Hey there 👋
+
+My name is Ayo!
 ====================
 
 FullStack Developer
@@ -11,7 +13,7 @@ I am a FullStack Developer that loves to learn! 🤓
 * 🧠  I'm currently learning React.js and Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Projects
 * 😄  Pronouns: he/him/his
-* ⚡  Fun Fact: On Wednesdays, we wear pink! (Mean Girls ref)
+* ⚡ Fun Fact: On Wednesdays, we wear pink! (Mean Girls ref)
 
 ### Skills
 
