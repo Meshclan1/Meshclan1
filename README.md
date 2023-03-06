@@ -6,7 +6,7 @@ My name is Ayo!
 FullStack Developer 🤓
 -------------------
 
-* 🌍  Based in London
+* 🌍  Based in London, UK
 * ✉️   You can contact me at [ayo.meshe@gmail.com](mailto:ayo.meshe@gmail.com)
 * 🧠  I'm currently learning React.js and Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Projects
