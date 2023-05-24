@@ -3,7 +3,7 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-FullStack Developer 🤓
+Full-Stack Engineer 🤓
 -------------------
 
 * 🌍  Based in London, UK
