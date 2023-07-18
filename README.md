@@ -8,7 +8,8 @@ Full-Stack Engineer 🤓
 
 * 🌍  Based in London, UK
 * ✉️   You can contact me at [ayo.meshe@gmail.com](mailto:ayo.meshe@gmail.com)
-* 🧠  I'm currently learning React.js and Data Structures & Algorithms
+* 🚀  I'm currently working on [My portfolio](http://tbc)
+* 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on Projects
 * 😄  Pronouns: he/him/his
 * ⚡ Fun Fact: I play the trumpet
