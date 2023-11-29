@@ -3,14 +3,14 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-Full-Stack Engineer 🤓
+Full-Stack Software Engineer 🤓
 -------------------
 
 * 🌍  Based in London, UK
 * ✉️   You can contact me at [ayo.meshe@gmail.com](mailto:ayo.meshe@gmail.com)
-* 🚀  I'm currently working on [My portfolio](http://tbc)
-* 🧠  I'm currently learning Next.js
-* 🤝  I'm open to collaborating on Projects
+* 🚀  I'm currently working on [My Portfolio](http://(s)://ayomeshe.com/)
+* 🧠  I'm currently learning to be more patient with myself - Trust the process!
+* 🤝  I'm open to collaborating on any tech-geographic projects
 * 😄  Pronouns: he/him/his
 * ⚡ Fun Fact: I play the trumpet
 ### Skills
