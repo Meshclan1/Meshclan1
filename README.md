@@ -7,10 +7,10 @@ Full-Stack Software Engineer 🤓
 -------------------
 
 * 🌍  Based in London, UK
-* ✉️   You can contact me at [ayo.meshe@gmail.com](mailto:ayo.meshe@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://(s)://ayomeshe.com/)
+* ✉️   You can contact me at [ayo.meshe@gmail.com](mailto:ayo.meshe@gmail.com) or [My Portfolio](http://(s)://ayomeshe.com/)
+* 🚀  I'm currently working on documentation for my Obsidian.md PKM system
 * 🧠  I'm currently learning to be more patient with myself - Trust the process!
-* 🤝  I'm open to collaborating on any tech-geographic projects
+* 🤝  I'm open to collaborating on any techno-geographic projects
 * 😄  Pronouns: he/him/his
 * ⚡ Fun Fact: I play the trumpet
 ### Skills
