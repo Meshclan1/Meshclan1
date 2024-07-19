@@ -3,7 +3,7 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-Full-Stack Software Engineer 🤓
+Software Engineer & Data Analysis 🤓
 -------------------
 
 * 🌍  Based in London, UK
