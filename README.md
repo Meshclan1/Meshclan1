@@ -3,7 +3,7 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-Software Engineer (Full Stack Development & Cloud Engineering) 🤓
+Software Engineer (Cloud/DevOps) 🤓
 -------------------
 
 * 🌍  Based in London, UK
@@ -12,7 +12,7 @@ Software Engineer (Full Stack Development & Cloud Engineering) 🤓
 * 🧠  I'm currently learning to be more patient with myself - Trust the process!
 * 🤝  I'm open to collaborating on cool, interesting projects
 * 😄  Pronouns: he/him/his
-* ⚡ Fun Fact: I play the trumpet
+* ⚡ Fun Fact: Big F1/Tennis Fan
 ### Skills
 
 
