@@ -8,10 +8,10 @@ My name is Ayo!
 -------------------
 
 * 🌍  Based in London, UK
-* 🚀  Currently working on: Multi-region disaster recovery architecture & advanced AWS solutions
-* 🧠  Currently learning: Advanced AWS architectures, Kubernetes, and Terraform
-* 🤝  Open to collaborating on: Cloud architecture projects, serverless applications, and infrastructure automation
-* 🎯  Goal: Building secure, scalable, and cost-optimized cloud solutions
+* 🚀  Currently working on: Designing multi-region, fault-tolerant AWS architectures, including DR strategies, Well-Architected reviews, and scalable serverless solutions for real-world cloud applications.
+* 🧠  Currently learning: Kubernetes (EKS), Terraform IaC, and GitOps practices to build production-ready, automated cloud platforms.
+* 🤝  Open to collaborating on: Cloud architecture projects, serverless applications, infrastructure automation, cost-optimised FinOps tooling, and data-driven AWS solutions.
+* 🎯  Goal: Building secure, resilient, and cost-efficient cloud systems using advanced AWS patterns
 * 😄  Pronouns: he/him/his
 * ⚡  Fun Fact: Big F1/Tennis Fan 🏎️🎾
 
