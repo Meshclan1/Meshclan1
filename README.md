@@ -3,15 +3,15 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-**AWS Solutions Architect – Professional | Cloud Engineer (5x Certified)** ☁️
+**Cloud Engineer | AWS Solutions Architect – Professional (5x Certified)** ☁️
 
 -------------------
 
 * 🌍  Based in London, UK
-* 🚀  Currently working on: Designing multi-region, fault-tolerant AWS architectures, including DR strategies, Well-Architected reviews, and scalable serverless solutions for real-world cloud applications.
-* 🧠  Currently learning: Kubernetes (EKS), Terraform IaC, and GitOps practices to build production-ready, automated cloud platforms.
-* 🤝  Open to collaborating on: Cloud architecture projects, serverless applications, infrastructure automation, cost-optimised FinOps tooling, and data-driven AWS solutions.
-* 🎯  Goal: Building secure, resilient, and cost-efficient cloud systems using advanced AWS patterns
+* 🚀  Currently designing: Multi-region, fault-tolerant AWS architectures that include DR strategies and scalable serverless solutions for real-world cloud applications.
+* 🧠  Currently learning: Terraform for IaC and general GitOps practices to build production-ready, automated platforms.
+* 🤝  Open to collaborating on: Interesting cloud projects (e.g. serverless applications, infrastructure automation, and data-driven AWS solutions).
+* 🎯  Goal: To master Kubernetes (EKS)!
 * 😄  Pronouns: he/him/his
 * ⚡  Fun Fact: Big F1/Tennis Fan 🏎️🎾
 
