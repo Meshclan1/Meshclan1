@@ -3,7 +3,7 @@ Hey there 👋
 My name is Ayo!
 ====================
 
-**Cloud Engineer | AWS Solutions Architect – Professional (5x Certified)** ☁️
+**AWS Solutions Architect – Professional | Cloud Engineer (5x Certified)** ☁️
 
 -------------------
 
