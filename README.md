@@ -9,7 +9,7 @@ My name is Ayo!
 
 * 🌍  Based in London, UK
 * 🚀  Currently designing: Fault-tolerant AWS architectures that include DR strategies and scalable serverless solutions for real-world applications.
-* 🧠  Currently learning: Terraform for IaC & GitOps to build production-ready, automated platforms.
+* 🧠  Currently learning: Terraform for IaC
 * 🤝  Open to collaborating on: Serverless applications, infrastructure automation, VPC Networking, and data-driven AWS solutions.
 * 🎯  Goal: To master Kubernetes (EKS)!
 * 😄  Pronouns: he/him/his
