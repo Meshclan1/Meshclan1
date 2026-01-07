@@ -8,8 +8,8 @@ My name is Ayo!
 -------------------
 
 * 🌍  Based in London, UK
-* 🚀  Currently designing: Fault-tolerant AWS architectures that include DR strategies and scalable serverless solutions for real-world applications.
-* 🧠  Currently learning: Terraform for IaC
+* 🚀  Currently designing: Fault-tolerant AWS architectures that include DR strategies.
+* 🧠  Currently learning: Scalable serverless solutions for real-world applications.
 * 🤝  Open to collaborating on: Serverless applications, infrastructure automation, VPC Networking, and data-driven AWS solutions.
 * 🎯  Goal: To master Kubernetes (EKS)!
 * 😄  Pronouns: he/him/his
@@ -22,6 +22,10 @@ My name is Ayo!
 * ✅ AWS Certified Developer – Associate (2025)
 * ✅ AWS Certified Solutions Architect – Associate (2024)
 * ✅ AWS Certified Cloud Practitioner (2024)
+
+### HashiCorp Certifications
+
+* ✅ HashiCorp Certified: Terraform Associate (2026)
 
 ### Skills
 
